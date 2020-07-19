@@ -91,8 +91,8 @@
                    </div>
 
        <div class="content">
-          <div class="title m-b-md">
-            <div align="center"> <img src="{{ 'storage/bg_1.jpg'}}" height="568" width="1366" />         
+          <div>
+            <div align="center"> <img src="{{ 'storage/bg_1.jpg'}}" height="488" width="150%" />         
         </div>
  <!-- Footer -->
  @include ('layouts.footer') 
