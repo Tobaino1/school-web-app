@@ -20,4 +20,4 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteEngine On
     RewriteRule ^(.*)$ public/$1 [L]
-</IfModule>]
+</IfModule>
